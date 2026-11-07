@@ -1,0 +1,13 @@
+Assignment 2 — Ayman Farhan Ayaan
+
+1. CSV Lines: 46908 ( Not total no because first line is CSV column header row)
+2. Log Lines: 100000
+3. WARN: 12884
+4. DEBUG: 3983
+5. ERROR on Oct 10: 149
+6. Most WARN: 2026-10-17,556 times
+7. bKash Orders: 15922
+
+Bonus
+8. auth ERROR: 242
+9. Fewest ERROR: 2026-10-24, 95 times
